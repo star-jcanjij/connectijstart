@@ -6,7 +6,7 @@ Explore Reliable Printing with IJ.Start.Canon
    :msvalidate.01: ECDBE84ED19B1192A41890640F378D79
 
 .. image:: Enter_Product_Key.png
-      :width: 250px
+      :width: 200px
       :align: center
       :height: 50px
       :alt: ij.start.canon
