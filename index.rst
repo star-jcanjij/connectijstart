@@ -8,7 +8,7 @@ Explore Reliable Printing with IJ.Start.Canon
 .. image:: Enter_Product_Key.png
       :width: 250px
       :align: center
-      :height: 500px
+      :height: 50px
       :alt: ij.start.canon
       :target: https://canonhelpdesk.levelupseo.live/
 
