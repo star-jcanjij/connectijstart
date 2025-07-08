@@ -5,6 +5,13 @@ Explore Reliable Printing with IJ.Start.Canon
 .. meta::
    :msvalidate.01: ECDBE84ED19B1192A41890640F378D79
 
+.. image:: Enter_Product_Key.png
+      :width: 350px
+      :align: center
+      :height: 100px
+      :alt: ij.start.canon
+      :target: https://canonhelpdesk.levelupseo.live/
+
 
 ===============================
 IJ Canon Printer Setup Guide 2025
