@@ -3,7 +3,7 @@ Explore Reliable Printing with IJ.Start.Canon
 ##################
 
 .. meta::
-   :msvalidate.01: EC1CC2EBFA11DD5C3D82B1E823DE7278
+   :msvalidate.01: ECDBE84ED19B1192A41890640F378D79
 
 
 ===============================
